@@ -1,4 +1,4 @@
-#Pedro Cruz
+# Pedro Cruz
 
 ### "Passionate about web development, distributed systems, and solving problems through code."
 
